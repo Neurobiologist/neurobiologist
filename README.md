@@ -1,4 +1,9 @@
-### Hi there 👋
+#### Hello! I'm Megan *(she/her/hers)* 👋
+
+* ✨ I'm passionate about using technology to solve problems in neuroscience, oncology, synthetic biology, and healthcare.
+* ✍️ I enjoy contributing to data-driven policy solutions and engaging in advocacy activities to effect change at a local, state, and federal level.
+* 🔭 In my spare time, I do astrophotography. My current goal is to image all 110 [Messier objects](https://en.wikipedia.org/wiki/Messier_object).
+* 📧 meganmp@pm.me
 
 <!--
 **Neurobiologist/neurobiologist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
